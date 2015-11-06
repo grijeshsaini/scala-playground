@@ -1,7 +1,7 @@
 package com.grijesh.learn.scala.basics
 
 /**
- * Created by grijesh on 6/11/15.
+ * Created by grijesh
  */
 object CurriedFunction extends App{
 
