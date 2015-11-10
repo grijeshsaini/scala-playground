@@ -17,7 +17,7 @@ class Calculator(brand:String) {
 //Companion Object
 object Calculator extends App{
 
-  val calculator = new Calculator("A")
+  val calculator = new Calculator("Bjj")
   println(calculator.color)
 
 }
